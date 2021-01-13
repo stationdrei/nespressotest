@@ -1,151 +1,238 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1" appversion="6.1.10" apprev="18007">
-  <panorama id="node1">
-    <input height="2048" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="2048" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="2048" preload="0" predecode="0" width="2048"/>
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+<tour start="node9" appversion="6.1.10" apprev="18007">
+  <panorama id="node9" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="-80"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="80" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="73.06" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="4"/>
+      <min pan="-86" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="94.37" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node1"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="-7.64" id="Point01" skinid="ht_node" description="" pan="-359.65" title="" url="{node2}"/>
+    <userdata title="Nespresso" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="" customnodeid="" comment="" nodeid="node9" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" id="Willkommen" pan="-0.149993" tilt="-6.46" url="{node8}" description="" skinid="ht_node_enter" target=""/>
     </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <media>
+      <sound id="_background" mode="0" pan="-1.000" tiltsize="10.000" tilt="-1.000" level="1.000" pansize="10.000" ambientlevel="0.000" startmutedmobile="0" nodechangekeep="0" field="90.000" loop="1">
+        <source url="media/Staycation - Corbyn Kites.mp3"/>
+      </sound>
+    </media>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
-  <panorama id="node2">
-    <input height="1024" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node8" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="56" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node2"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="-12" id="Point01" skinid="ht_node" description="" pan="-358.25" title="" url="{node3}"/>
+    <userdata title="Vertuo Next" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="10-01" customnodeid="" comment="" nodeid="node8" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Vertuo Details" id="zoom" pan="-358.47" tilt="-16.73" url="{node10}" description="" skinid="ht_node_zoom" target=""/>
+      <hotspot title="" id="Point04" pan="-187.02" tilt="-10.4" url="{node9}" description="" skinid="ht_node_exit" target=""/>
+      <hotspot title="Nachhaltigkeit" id="ht_node_enter_recycle" pan="-0.84" tilt="3.65" url="{node11}" description="" skinid="ht_node_nachh" target=""/>
+      <hotspot title="Vertuo Kapseln Kaufen" id="Point01" pan="-15.12" tilt="-13.34" url="https://www.nespresso.com/de/de/coffee-selector" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="Vertuo Next kaufen" id="Point02" pan="-358.31" tilt="-5.17" url="https://www.nespresso.com/de/en/order/machines/vertuo" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="Order &amp; Care" id="Vertuo Next" pan="-28.62" tilt="-7.01" url="media/01-order-care.mp4" description="" skinid="ht_video_file" target=""/>
+      <hotspot title="Vertuo Next" id="Point03" pan="-344.4" tilt="-16.2" url="https://www.nespresso.com/de/de/vertuo" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Vertuo Next" id="Point05" pan="-9.95" tilt="-16.75" url="https://www.nespresso.com/de/de/vertuo" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Instagram" id="Point06" pan="-60.68" tilt="-12.29" url="https://www.instagram.com/nespresso.de/" description="" skinid="ht_insta" target="_blank"/>
+      <hotspot title=" Kaffeefinder" id="Point07" pan="-308.71" tilt="2.93" url="https://www.nespresso.com/de/de/coffee-selector" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="B2B" id="zoom2" pan="-17.12" tilt="2.98" url="{node12}" description="" skinid="ht_node_business" target=""/>
+      <hotspot title="Nespresso VERTUO Next Intro Machine 2020 40&quot; | DE" id="Point08" pan="-345.59" tilt="-2.29" url="_S_HmYUCwhE" description="" skinid="ht_video_youtube" target=""/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
-  <panorama id="node3">
-    <input height="1024" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node10" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="72" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node3"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="11.68" id="Point01" skinid="ht_node" description="" pan="-4.75" title="" url="{node6}"/>
+    <userdata title="Vertuo Details" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="10-01" customnodeid="" comment="" nodeid="node10" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="B2B" id="Point02" pan="-15.19" tilt="-5.81" url="{node12}" description="" skinid="ht_node_business" target=""/>
+      <hotspot title="Nachhaltigkeit" id="Point01" pan="-1.01" tilt="16.03" url="{node11}" description="" skinid="ht_node_nachh" target=""/>
+      <hotspot title="Vertuo Next" id="Point03" pan="-321.62" tilt="-15.81" url="https://www.nespresso.com/de/de/vertuo" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Vertuo Next kaufen" id="Point02" pan="-712.81" tilt="7.85" url="https://www.nespresso.com/de/en/order/machines/vertuo" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="Vertuo Next" id="Point05" pan="-32.06" tilt="-16.47" url="https://www.nespresso.com/de/de/vertuo" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Vertuo Kapseln Kaufen" id="Point01" pan="-41.2" tilt="-11.97" url="https://www.nespresso.com/de/de/coffee-selector" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="New Vertuo Next" id="Vertuo Next" pan="-39.66" tilt="3.28" url="media/01-Tv-06S.mp4" description="" skinid="ht_video_file" target=""/>
+      <hotspot title="Instagram" id="Point06" pan="-87.98" tilt="-9.69" url="https://www.instagram.com/nespresso.de/" description="" skinid="ht_insta" target="_blank"/>
+      <hotspot title=" Kaffeefinder" id="Point07" pan="-300.72" tilt="6.12" url="https://www.nespresso.com/de/de/coffee-selector" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="" id="Point04" pan="-11.02" tilt="-19.39" url="" description="" skinid="PolyKaraf" target="_blank"/>
+      <hotspot title="" id="Point08" pan="-348.36" tilt="-19.46" url="" description="" skinid="PolyTass" target="_blank"/>
+      <hotspot title="360 Ansicht" id="Point10" pan="-5.82" tilt="8.34" url="" description="" skinid="ht_3d2" target=""/>
     </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <media>
+      <video fov="44.320" pansize="10.000" level="1.000" mode="1" startmutedmobile="0" handcursor="0" loop="-1" stretch="1.000" clickmode="0" width="1072" id="Tass" rotz="0.000" rotx="0.000" nodechangekeep="0" ambientlevel="0.000" pan="0.000" tilt="0.000" field="90.000" height="1072" tiltsize="10.000" roty="0.000">
+        <source url="media/2021-01-13 Cups-1.m4v"/>
+      </video>
+      <video fov="44.320" pansize="10.000" level="1.000" mode="1" startmutedmobile="0" handcursor="0" loop="-1" stretch="1.000" clickmode="0" width="1072" id="Karaf" rotz="0.000" rotx="0.000" nodechangekeep="0" ambientlevel="0.000" pan="0.000" tilt="0.000" field="90.000" height="1072" tiltsize="10.000" roty="0.000">
+        <source url="media/2021-01-13 Karaffees-1.m4v"/>
+      </video>
+      <image width="1072" id="Element03" stretch="1.000" fov="44.320" clickmode="0" rotx="0.000" handcursor="0" pan="0.000" rotz="0.000" tilt="0.000" height="1072" roty="0.000">
+        <source url="media/2021-01-13_Karaffee (00000).png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
-  <panorama id="node6">
-    <input height="1024" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node11" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="62" pan="-24" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="120" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node6"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="-23.58" id="Point01" skinid="ht_node" description="" pan="-146.41" title="" url="{node7}"/>
+    <userdata title="Nachhaltigkeit" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="10-05" customnodeid="" comment="" nodeid="node11" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" id="Point01" pan="-280.36" tilt="0.24" url="{node8}" description="" skinid="ht_node_enter" target=""/>
+      <hotspot title="Vertuo Details" id="Point04" pan="-281.12" tilt="-5.65" url="{node10}" description="" skinid="ht_node_zoom" target=""/>
+      <hotspot title="Nachhaltiger Kaffeeanbau" id="Point05" pan="27.02" tilt="2.32" url="" description="Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;&#xa;Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken." skinid="ht_info" target=""/>
+      <hotspot title="Kapsel Recycling" id="Point07" pan="-2.3" tilt="-16.59" url="pqX0haZp3MI" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="RE:Cycle Bike" id="Point08" pan="-43.08" tilt="-19.1" url="https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Eine Botschaft von Guilaume Le Cunff" id="Point09" pan="-318.05" tilt="-10.57" url="7nnEra6-WVc" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Caran D'ache" id="Point10" pan="-28.48" tilt="-8.83" url="media/02-TV-05.MP4" description="" skinid="ht_video_file" target=""/>
+      <hotspot title="Nespresso Commitment" id="Point06" pan="-350.99" tilt="-10.4" url="https://www.nespresso.com/de/de/nespresso-commitment-2020" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="B2B" id="Point02" pan="-142.86" tilt="-26.94" url="{node12}" description="" skinid="ht_node_business" target=""/>
+      <hotspot title="Genussmomente" id="Point05" pan="-203.93" tilt="-10.22" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Momento Details" id="ht_node_zoom" pan="-147.33" tilt="-1.74" url="{node2}" description="" skinid="ht_node_zoom" target=""/>
     </hotspots>
-    <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <media>
+      <video fov="31.500" pansize="10.000" level="1.000" mode="1" startmutedmobile="1" handcursor="1" loop="1" stretch="1.000" clickmode="2" width="736" id="Element01" rotz="0.000" rotx="0.000" nodechangekeep="0" poster="media/recy1_patch (stop).jpg" ambientlevel="0.000" pan="-6.000" tilt="-12.000" field="90.000" height="736" tiltsize="10.000" roty="0.000">
+        <source url="media/Recy1 Patch-1.m4v"/>
+      </video>
+      <image width="736" id="Element02" stretch="1.000" fov="31.500" clickmode="0" rotx="0.000" handcursor="0" pan="-6.000" rotz="0.000" tilt="-12.000" height="736" roty="0.000">
+        <source url="media/recy1_patch (00085).png"/>
+      </image>
+    </media>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
-  <panorama id="node7">
-    <input height="1024" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node12" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="59" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fov="59" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node7"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="-12.96" id="Point01" skinid="ht_node" description="" pan="0.01" title="" url="{node5}"/>
+    <userdata title="B2B" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="10-20" customnodeid="" comment="" nodeid="node12" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="Momento Details" id="ht_node_zoom" pan="-359.89" tilt="-14.81" url="{node2}" description="" skinid="ht_node_zoom" target=""/>
+      <hotspot title="Vertuo Next" id="ht_node_enter" pan="-141.53" tilt="0.44" url="{node8}" description="" skinid="ht_node_enter" target=""/>
+      <hotspot title="Peru Organic" id="Point01" pan="-295.6" tilt="-17.57" url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Momento Coffee &amp; Milk 120" id="Point03" pan="-355.84" tilt="-3.41" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="LinkedIn" id="Point04a" pan="-302.52" tilt="-34.29" url="https://www.linkedin.com/showcase/nespresso-professional/" description="" skinid="ht_linkedin" target="_blank"/>
+      <hotspot title="Genussmomente" id="Point05" pan="-72.18" tilt="-16.18" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Nespresso Momento" id="Point07" pan="-4.85" tilt="-3.65" url="Y1S5HmbkySU" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Kontakt" id="Point04" pan="-311.65" tilt="-34.2" url="https://www.nespresso.com/pro/de/de/professional-kontakt" description="" skinid="ht_form" target="_blank"/>
+      <hotspot title="3D Momento" id="Point10" pan="-0.280005" tilt="-3.38" url="" description="" skinid="ht_3d" target=""/>
+      <hotspot title="Eine Botschaft von Guilaume Le Cunff" id="Point09" pan="-166.61" tilt="-6.97" url="7nnEra6-WVc" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Nespresso Commitment" id="Point06" pan="-182.69" tilt="-7.24" url="https://www.nespresso.com/de/de/nespresso-commitment-2020" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="RE:Cycle Bike" id="Point08" pan="-205.76" tilt="-13.32" url="https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Caran D'ache" id="Point10" pan="-203.57" tilt="-4.24" url="media/02-TV-05.MP4" description="" skinid="ht_video_file" target=""/>
+      <hotspot title="Nachhaltiger Kaffeeanbau" id="Point05" pan="-196.68" tilt="9.04" url="" description="Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;&#xa;Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken." skinid="ht_info" target=""/>
+      <hotspot title="Kapsel Recycling" id="Point07" pan="-189.77" tilt="-7.11" url="pqX0haZp3MI" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Order &amp; Care" id="Point11" pan="-193.13" tilt="-7.31" url="https://www.nespresso.com/de/de/abonnement" description="" skinid="ht_care" target="_blank"/>
+      <hotspot title="Nachhaltigkeit" id="Point01" pan="-179.73" tilt="-20.72" url="{node11}" description="" skinid="ht_node_nachh" target=""/>
+      <hotspot title="Vertuo Details" id="Point04" pan="-141.43" tilt="-6.68" url="{node10}" description="" skinid="ht_node_zoom" target=""/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
-  <panorama id="node5">
-    <input height="1024" levelbiashidpi="1.000" levelbias="0.400" overlap="1" levelingroll="0" width="1024" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelingpitch="0">
-      <level height="1024" preload="0" predecode="0" width="1024"/>
-      <level height="512" preload="0" predecode="0" width="512"/>
-      <level height="256" preload="1" predecode="1" width="256"/>
-      <preview color="0x808080" strip="1"/>
+  <panorama id="node2" hideabout="1">
+    <input width="2048" levelingroll="0" leveltilesize="510" levelbias="0.400" levelbiashidpi="1.000" height="2048" levelingpitch="0" overlap="1" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg">
+      <level width="2048" height="2048" predecode="0" preload="0"/>
+      <level width="1024" height="1024" predecode="0" preload="0"/>
+      <level width="512" height="512" predecode="0" preload="1"/>
+      <level width="256" height="256" predecode="1" preload="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
-    <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" pan="0" fov="70"/>
-      <flyin projection="9" tilt="-90" pan="0" fov="170"/>
-      <min fovpixel="2" tilt="-90" pan="0"/>
-      <max scaletofit="1" fovstereographic="270" tilt="90" pan="360" fovfisheye="360" fov="120"/>
+    <view pannorth="0" fovmode="0">
+      <start fov="59" pan="0" tilt="0" projection="4"/>
+      <flyin fov="169" pan="0" tilt="-90" projection="4"/>
+      <min pan="0" tilt="-90" fovpixel="1"/>
+      <max fov="80" scaletofit="1" pan="360" tilt="90" fovfisheye="360" fovstereographic="270"/>
     </view>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="render" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="node5"/>
-    <hotspots height="20" width="180" wordwrap="1">
-      <label height="20" backgroundalpha="1" borderalpha="1" backgroundcolor="0xffffff" borderradius="1" enabled="1" bordercolor="0x000000" textalpha="1" border="1" width="180" textcolor="0x000000" wordwrap="1" background="1"/>
-      <polystyle mode="0" backgroundalpha="0.25098" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot target="" tilt="-7.42" id="Point01" skinid="ht_node" description="" pan="-157.13" title="" url="{node1}"/>
+    <userdata title="Momento" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="10-01" customnodeid="" comment="" nodeid="node2" description="" heading="0" source=""/>
+    <hotspots width="180" wordwrap="1" height="0">
+      <label width="180" enabled="1" wordwrap="1" textcolor="0xffffff" border="0" borderradius="1" textalpha="1" borderalpha="1" height="0" backgroundcolor="0xffffff" bordercolor="0x000000" backgroundalpha="1" background="1"/>
+      <polystyle mode="0" handcursor="1" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098"/>
+      <hotspot title="" id="Point02" pan="-156.75" tilt="1.2" url="{node10}" description="" skinid="ht_node_enter" target=""/>
+      <hotspot title="B2B" id="Point03" pan="-176.98" tilt="-22.23" url="{node12}" description="" skinid="ht_node_business" target=""/>
+      <hotspot title="Momento Coffee &amp; Milk 120" id="Point04" pan="-348.39" tilt="10.62" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" description="" skinid="ht_node_link" target="_blank"/>
+      <hotspot title="360 Ansicht" id="Point10" pan="-1.35" tilt="10.78" url="" description="" skinid="ht_3d" target=""/>
+      <hotspot title="Nespresso Momento" id="Point11" pan="-12.98" tilt="10.33" url="Y1S5HmbkySU" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Kontaktformular" id="Point04a" pan="-223.02" tilt="-21.49" url="https://www.linkedin.com/showcase/nespresso-professional/" description="" skinid="ht_linkedin" target="_blank"/>
+      <hotspot title="Kontaktformular" id="Point04" pan="-232.23" tilt="-21.87" url="https://www.nespresso.com/pro/de/de/professional-kontakt" description="" skinid="ht_form" target="_blank"/>
+      <hotspot title="LinkedIn" id="Point04a" pan="-7.01" tilt="16.44" url="https://www.linkedin.com/showcase/nespresso-professional/" description="" skinid="ht_linkedin" target="_blank"/>
+      <hotspot title="Kontakt" id="Point04" pan="-354.98" tilt="16.58" url="https://www.nespresso.com/pro/de/de/professional-kontakt" description="" skinid="ht_form" target="_blank"/>
+      <hotspot title="Genussmomente" id="Point05" pan="-133.98" tilt="-11.39" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Peru Organic" id="Point01" pan="-235.64" tilt="-7.46" url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" description="" skinid="ht_url" target="_blank"/>
+      <hotspot title="Eine Botschaft von Guilaume Le Cunff" id="Point09" pan="-170.48" tilt="-2.85" url="7nnEra6-WVc" description="" skinid="ht_video_youtube" target=""/>
+      <hotspot title="Nachhaltigkeit" id="Point01" pan="-169.12" tilt="-11.93" url="{node11}" description="" skinid="ht_node_nachh" target=""/>
     </hotspots>
     <media/>
-    <transition zoomspeed="2" zoomout="0" type="crossdissolve" enabled="1" zoomafteroutfov="20" blendcolor="0x000000" softedge="0" zoomfov="20" zoomin="0" zoomoutpause="1" blendtime="1" zoomafterinfov="90"/>
-    <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control simulatemass="1" lockedkeyboard="0" lockedkeyboardzoom="0" speedwheel="1" hideabout="0" invertwheel="0" lockedwheel="0" sensitivity="8" contextfullscreen="1" rubberband="0" dblclickfullscreen="0" contextprojections="0" lockedmouse="0" invertcontrol="1"/>
+    <transition type="crossdissolve" enabled="0" zoomspeed="2" zoomafterinfov="110" zoomin="2" zoomfov="40" zoomafteroutfov="40" softedge="0" zoomoutpause="1" blendcolor="0x000000" zoomout="0" blendtime="0.3"/>
+    <animation syncanimationwithvideo="0" animsequence="Animation01" useinautorotation="0"/>
+    <control lockedkeyboardzoom="0" simulatemass="1" hideabout="1" dblclickfullscreen="0" rubberband="0" lockedmouse="0" lockedkeyboard="0" contextfullscreen="1" invertwheel="0" lockedwheel="0" sensitivity="8" speedwheel="1" invertcontrol="1" contextprojections="0"/>
   </panorama>
   <masternode>
-    <userdata info="" longitude="" customnodeid="" copyright="" tags="" author="" description="" heading="0" source="" title="" datetime="" comment="" latitude="" nodeid="master"/>
+    <userdata title="" longitude="" latitude="" author="" datetime="" copyright="" info="" tags="" customnodeid="" comment="" nodeid="master" description="" heading="0" source=""/>
   </masternode>
 </tour>
