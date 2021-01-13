@@ -39,7 +39,7 @@
     </input>
     <view pannorth="0" fovmode="0">
       <start tilt="0" fov="56" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <flyin tilt="-3.6" fov="120" pan="0.44" projection="4"/>
       <min tilt="-90" fovpixel="1" pan="0"/>
       <max tilt="90" fovfisheye="360" fov="120" pan="360" scaletofit="1" fovstereographic="270"/>
     </view>
@@ -49,7 +49,7 @@
       <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
       <hotspot tilt="-16.73" title="Vertuo Details" pan="-358.47" id="zoom" url="{node10}" target="" skinid="ht_node_zoom" description=""/>
       <hotspot tilt="-10.4" title="" pan="-187.02" id="Point04" url="{node9}" target="" skinid="ht_node_exit" description=""/>
-      <hotspot tilt="3.65" title="Nachhaltigkeit" pan="-0.84" id="ht_node_enter_recycle" url="{node11}" target="" skinid="ht_node_nachh" description=""/>
+      <hotspot tilt="3.65" title="Nachhaltigkeit" pan="-0.84" id="ht_node_enter_recycle" url="{node11}" target="15.4/-0.5/62.0" skinid="ht_node_nachh" description=""/>
       <hotspot tilt="-13.34" title="Vertuo Kapseln Kaufen" pan="-15.12" id="Point01" url="https://www.nespresso.com/de/de/coffee-selector" target="_blank" skinid="ht_node_link" description=""/>
       <hotspot tilt="-5.17" title="Vertuo Next kaufen" pan="-358.31" id="Point02" url="https://www.nespresso.com/de/en/order/machines/vertuo" target="_blank" skinid="ht_node_link" description=""/>
       <hotspot tilt="-7.01" title="Order &amp; Care" pan="-28.62" id="Vertuo Next" url="media/01-order-care.mp4" target="" skinid="ht_video_file" description=""/>
@@ -57,7 +57,7 @@
       <hotspot tilt="-16.75" title="Vertuo Next" pan="-9.95" id="Point05" url="https://www.nespresso.com/de/de/vertuo" target="_blank" skinid="ht_url" description=""/>
       <hotspot tilt="-12.29" title="Instagram" pan="-60.68" id="Point06" url="https://www.instagram.com/nespresso.de/" target="_blank" skinid="ht_insta" description=""/>
       <hotspot tilt="2.93" title=" Kaffeefinder" pan="-308.71" id="Point07" url="https://www.nespresso.com/de/de/coffee-selector" target="_blank" skinid="ht_node_link" description=""/>
-      <hotspot tilt="2.98" title="B2B" pan="-17.12" id="zoom2" url="{node12}" target="" skinid="ht_node_business" description=""/>
+      <hotspot tilt="2.98" title="B2B" pan="-17.12" id="zoom2" url="{node12}" target="0.0/0.0/59.0" skinid="ht_node_business" description=""/>
       <hotspot tilt="-2.29" title="Nespresso VERTUO Next Intro Machine 2020 40&quot; | DE" pan="-345.59" id="Point08" url="_S_HmYUCwhE" target="" skinid="ht_video_youtube" description=""/>
     </hotspots>
     <media/>
@@ -83,8 +83,8 @@
     <hotspots width="180" height="0" wordwrap="1">
       <label border="0" borderalpha="1" width="180" bordercolor="0x000000" background="1" backgroundcolor="0xffffff" textcolor="0xffffff" enabled="1" height="0" textalpha="1" borderradius="1" wordwrap="1" backgroundalpha="1"/>
       <polystyle handcursor="1" borderalpha="1" mode="0" bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.25098"/>
-      <hotspot tilt="-5.81" title="B2B" pan="-15.19" id="Point02" url="{node12}" target="" skinid="ht_node_business" description=""/>
-      <hotspot tilt="16.03" title="Nachhaltigkeit" pan="-1.01" id="Point01" url="{node11}" target="" skinid="ht_node_nachh" description=""/>
+      <hotspot tilt="-5.81" title="B2B" pan="-15.19" id="Point02" url="{node12}" target="0.0/0.0/59.0" skinid="ht_node_business" description=""/>
+      <hotspot tilt="16.03" title="Nachhaltigkeit" pan="-1.01" id="Point01" url="{node11}" target="14.2/1.1/62.0" skinid="ht_node_nachh" description=""/>
       <hotspot tilt="-15.81" title="Vertuo Next" pan="-321.62" id="Point03" url="https://www.nespresso.com/de/de/vertuo" target="_blank" skinid="ht_url" description=""/>
       <hotspot tilt="7.85" title="Vertuo Next kaufen" pan="-712.81" id="Point02" url="https://www.nespresso.com/de/en/order/machines/vertuo" target="_blank" skinid="ht_node_link" description=""/>
       <hotspot tilt="-16.47" title="Vertuo Next" pan="-32.06" id="Point05" url="https://www.nespresso.com/de/de/vertuo" target="_blank" skinid="ht_url" description=""/>
@@ -121,7 +121,7 @@
     </input>
     <view pannorth="0" fovmode="0">
       <start tilt="0" fov="62" pan="-24" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <flyin tilt="-2.45" fov="74.77" pan="-9.26" projection="4"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fovfisheye="360" fov="120" pan="360" scaletofit="1" fovstereographic="270"/>
     </view>
@@ -138,7 +138,7 @@
       <hotspot tilt="-8.83" title="Caran D'ache" pan="-28.48" id="Point10" url="media/02-TV-05.MP4" target="" skinid="ht_video_file" description=""/>
       <hotspot tilt="-10.4" title="Nespresso Commitment" pan="-350.99" id="Point06" url="https://www.nespresso.com/de/de/nespresso-commitment-2020" target="_blank" skinid="ht_url" description=""/>
       <hotspot tilt="-26.94" title="B2B" pan="-142.86" id="Point02" url="{node12}" target="" skinid="ht_node_business" description=""/>
-      <hotspot tilt="-10.22" title="Genussmomente" pan="-203.93" id="Point05" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" target="_blank" skinid="ht_url" description=""/>
+      <hotspot tilt="-12.7" title="Genussmomente" pan="-171.71" id="Point05" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" target="_blank" skinid="ht_url" description=""/>
       <hotspot tilt="-1.74" title="Momento Details" pan="-147.33" id="ht_node_zoom" url="{node2}" target="" skinid="ht_node_zoom" description=""/>
     </hotspots>
     <media>
@@ -163,7 +163,7 @@
     </input>
     <view pannorth="0" fovmode="0">
       <start tilt="0" fov="59" pan="0" projection="4"/>
-      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <flyin tilt="-0.55" fov="74.77" pan="-0.8" projection="4"/>
       <min tilt="-90" fovpixel="2" pan="0"/>
       <max tilt="90" fovfisheye="360" fov="59" pan="360" scaletofit="1" fovstereographic="270"/>
     </view>
@@ -180,14 +180,7 @@
       <hotspot tilt="-3.65" title="Nespresso Momento" pan="-4.85" id="Point07" url="Y1S5HmbkySU" target="" skinid="ht_video_youtube" description=""/>
       <hotspot tilt="-34.2" title="Kontakt" pan="-311.65" id="Point04" url="https://www.nespresso.com/pro/de/de/professional-kontakt" target="_blank" skinid="ht_form" description=""/>
       <hotspot tilt="-3.38" title="3D Momento" pan="-0.280005" id="Point10" url="" target="" skinid="ht_3d" description=""/>
-      <hotspot tilt="-6.97" title="Eine Botschaft von Guilaume Le Cunff" pan="-166.61" id="Point09" url="7nnEra6-WVc" target="" skinid="ht_video_youtube" description=""/>
-      <hotspot tilt="-7.24" title="Nespresso Commitment" pan="-182.69" id="Point06" url="https://www.nespresso.com/de/de/nespresso-commitment-2020" target="_blank" skinid="ht_url" description=""/>
-      <hotspot tilt="-13.32" title="RE:Cycle Bike" pan="-205.76" id="Point08" url="https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle" target="_blank" skinid="ht_url" description=""/>
-      <hotspot tilt="-4.24" title="Caran D'ache" pan="-203.57" id="Point10" url="media/02-TV-05.MP4" target="" skinid="ht_video_file" description=""/>
-      <hotspot tilt="9.04" title="Nachhaltiger Kaffeeanbau" pan="-196.68" id="Point05" url="" target="" skinid="ht_info" description="Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;&#xa;Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken."/>
-      <hotspot tilt="-7.11" title="Kapsel Recycling" pan="-189.77" id="Point07" url="pqX0haZp3MI" target="" skinid="ht_video_youtube" description=""/>
-      <hotspot tilt="-7.31" title="Order &amp; Care" pan="-193.13" id="Point11" url="https://www.nespresso.com/de/de/abonnement" target="_blank" skinid="ht_care" description=""/>
-      <hotspot tilt="-20.72" title="Nachhaltigkeit" pan="-179.73" id="Point01" url="{node11}" target="" skinid="ht_node_nachh" description=""/>
+      <hotspot tilt="-23.57" title="Nachhaltigkeit" pan="-161.64" id="Point01" url="{node11}" target="" skinid="ht_node_nachh" description=""/>
       <hotspot tilt="-6.68" title="Vertuo Details" pan="-141.43" id="Point04" url="{node10}" target="" skinid="ht_node_zoom" description=""/>
     </hotspots>
     <media/>
@@ -224,7 +217,6 @@
       <hotspot tilt="16.58" title="Kontakt" pan="-354.98" id="Point04" url="https://www.nespresso.com/pro/de/de/professional-kontakt" target="_blank" skinid="ht_form" description=""/>
       <hotspot tilt="-11.39" title="Genussmomente" pan="-133.98" id="Point05" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" target="_blank" skinid="ht_url" description=""/>
       <hotspot tilt="-7.46" title="Peru Organic" pan="-235.64" id="Point01" url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" target="_blank" skinid="ht_url" description=""/>
-      <hotspot tilt="-2.85" title="Eine Botschaft von Guilaume Le Cunff" pan="-170.48" id="Point09" url="7nnEra6-WVc" target="" skinid="ht_video_youtube" description=""/>
       <hotspot tilt="-11.93" title="Nachhaltigkeit" pan="-169.12" id="Point01" url="{node11}" target="" skinid="ht_node_nachh" description=""/>
     </hotspots>
     <media/>
