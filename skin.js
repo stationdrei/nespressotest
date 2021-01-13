@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.10/18007
 // Filename: silhouette_cardboard.ggsk
-// Generated 2021-01-13T17:45:22
+// Generated 2021-01-13T17:48:21
 
 function pano2vrSkin(player,base) {
 	player.addVariable('ht_ani', 2, false);
@@ -2644,7 +2644,7 @@ function pano2vrSkin(player,base) {
 		me._close_url_1.logicBlock_visible = function() {
 			var newLogicStateVisible;
 			if (
-				((player.getVariableValue('vis_vertuo_3d') == true))
+				((player.getVariableValue('vis_momento_3d') == true))
 			)
 			{
 				newLogicStateVisible = 0;
@@ -11388,8 +11388,8 @@ function pano2vrSkin(player,base) {
 	player.addListener('varchanged_vis_thumbnail_menu', function(args) { me._menu_background.logicBlock_alpha();me._menu_open.logicBlock_position(); });
 	player.addListener('varchanged_vis_video_file', function(args) { me._video_screentint_file.logicBlock_visible();me._video_popup_file.logicBlock_visible();me._popup_video_file.logicBlock_visible();me._video_popup_controls_file.logicBlock_visible();me._video_popup_close_file.logicBlock_visible(); });
 	player.addListener('varchanged_vis_info_popup', function(args) { me._screentint_info0.logicBlock_visible();me._screentint_info.logicBlock_visible();me._information.logicBlock_visible(); });
-	player.addListener('varchanged_vis_momento_3d', function(args) { me._momento.logicBlock_visible(); });
-	player.addListener('varchanged_vis_vertuo_3d', function(args) { me._close_url_1.logicBlock_visible();me._vertuo.logicBlock_visible();me._close_url_2.logicBlock_visible(); });
+	player.addListener('varchanged_vis_momento_3d', function(args) { me._momento.logicBlock_visible();me._close_url_1.logicBlock_visible(); });
+	player.addListener('varchanged_vis_vertuo_3d', function(args) { me._vertuo.logicBlock_visible();me._close_url_2.logicBlock_visible(); });
 	player.addListener('varchanged_vis_video_youtube', function(args) { me._video_screentint_youtube.logicBlock_visible();me._video_popup_youtube.logicBlock_visible();me._popup_video_youtube.logicBlock_visible();me._video_popup_close_youtube.logicBlock_visible(); });
 	player.addListener('varchanged_vis_website', function(args) { me._screen_tint_url.logicBlock_visible();me._web_page.logicBlock_visible();me._close_url.logicBlock_visible(); });
 	player.addListener('changenode', function(args) { me._node_cloner.callChildLogicBlocks_changenode(); });
