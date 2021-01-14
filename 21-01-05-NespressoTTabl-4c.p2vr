@@ -445,8 +445,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-345.66</pan>
-            <tilt>-4.32</tilt>
+            <pan>-345.75</pan>
+            <tilt>-5.3</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2066,7 +2066,36 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <sounds/>
       <id>node2</id>
     </panorama>
-    <start>node9</start>
+    <start>node13</start>
+    <panorama>
+      <input>
+        <patch/>
+        <type>auto</type>
+        <filename>C:/Users/novos/work/20200925_Nespresso_Showroom/202-01-05/render/draft__.tif</filename>
+        <videotype>equi</videotype>
+        <levelpitch>0</levelpitch>
+        <levelroll>0</levelroll>
+      </input>
+      <viewingparameter>
+        <pan/>
+        <tilt/>
+        <fov/>
+        <flyinstart/>
+        <pannorth>0</pannorth>
+      </viewingparameter>
+      <userdata>
+        <capturedatetime>2021-01-14T17:22:30+01:00</capturedatetime>
+        <datetime>14/01/2021 17:22</datetime>
+        <tags>render</tags>
+      </userdata>
+      <floorplans/>
+      <hotspots/>
+      <output/>
+      <streetview/>
+      <streetviewproject/>
+      <sounds/>
+      <id>node13</id>
+    </panorama>
   </tour>
   <panorama>
     <id>master</id>
