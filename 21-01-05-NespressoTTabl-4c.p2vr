@@ -135,14 +135,14 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
+          <pan>0.44</pan>
+          <tilt>-3.6</tilt>
+          <fov>120</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
+        <flyinprojection>rectilinear</flyinprojection>
         <defaultviewtimestamp>2020-12-01T17:47:27</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
@@ -212,9 +212,9 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>15.4</pan>
+            <tilt>-0.5</tilt>
+            <fov>62</fov>
           </next>
           <polygon/>
           <type>point</type>
@@ -223,6 +223,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <target>15.4/-0.5/62.0</target>
           <skinid>ht_node_nachh</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -424,7 +425,7 @@
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>0</fov>
+            <fov>59</fov>
           </next>
           <polygon/>
           <type>point</type>
@@ -433,6 +434,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <target>0.0/0.0/59.0</target>
           <skinid>ht_node_business</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -545,7 +547,7 @@
           <next>
             <pan>0</pan>
             <tilt>0</tilt>
-            <fov>0</fov>
+            <fov>59</fov>
           </next>
           <polygon/>
           <type>point</type>
@@ -554,6 +556,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node12}</url>
+          <target>0.0/0.0/59.0</target>
           <skinid>ht_node_business</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -569,9 +572,9 @@
             <fov>10</fov>
           </position>
           <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
+            <pan>14.2</pan>
+            <tilt>1.1</tilt>
+            <fov>62</fov>
           </next>
           <polygon/>
           <type>point</type>
@@ -580,6 +583,7 @@
           <linktype>node</linktype>
           <linksubtype>unknown</linksubtype>
           <url>{node11}</url>
+          <target>14.2/1.1/62.0</target>
           <skinid>ht_node_nachh</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
@@ -990,14 +994,14 @@
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
+          <pan>-9.26</pan>
+          <tilt>-2.45</tilt>
+          <fov>74.77</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
+        <flyinprojection>rectilinear</flyinprojection>
         <defaultviewtimestamp>2020-12-01T15:18:33</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
@@ -1241,8 +1245,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-203.93</pan>
-            <tilt>-10.22</tilt>
+            <pan>-171.71</pan>
+            <tilt>-12.7</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1390,14 +1394,14 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <maxfovfisheye>360</maxfovfisheye>
         </fov>
         <flyinstart>
-          <pan>0</pan>
-          <tilt>-90</tilt>
-          <fov>170</fov>
+          <pan>-0.8</pan>
+          <tilt>-0.55</tilt>
+          <fov>74.77</fov>
         </flyinstart>
         <pannorth>0</pannorth>
         <scaletofit>1</scaletofit>
         <projection>rectilinear</projection>
-        <flyinprojection>stereo</flyinprojection>
+        <flyinprojection>rectilinear</flyinprojection>
         <defaultviewtimestamp>2020-12-01T15:18:44</defaultviewtimestamp>
       </viewingparameter>
       <userdata>
@@ -1642,187 +1646,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-166.61</pan>
-            <tilt>-6.97</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>Eine Botschaft von Guilaume Le Cunff</title>
-          <linktype>video</linktype>
-          <linksubtype>videoyoutube</linksubtype>
-          <url>7nnEra6-WVc</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-182.69</pan>
-            <tilt>-7.24</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>Nespresso Commitment</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/de/de/nespresso-commitment-2020</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-205.76</pan>
-            <tilt>-13.32</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point08</id>
-          <title>RE:Cycle Bike</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/de/de/our-choices/kaffeegenuss/introducing-recycle</url>
-          <target>_blank</target>
-          <skinid>ht_url</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-203.57</pan>
-            <tilt>-4.24</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point10</id>
-          <title>Caran D'ache</title>
-          <linktype>video</linktype>
-          <linksubtype>videofile</linksubtype>
-          <url>C:\Users\novoselov\Downloads\20200925_Nespresso_Showroom\20200925_Nespresso_Showroom\MP4\02-TV-05.MP4</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-196.68</pan>
-            <tilt>9.04</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point05</id>
-          <title>Nachhaltiger Kaffeeanbau</title>
-          <description>Qualität und Nachhaltigkeit gehen für Nespresso Hand in Hand – von der Kaffeekirsche bis zur Entsorgung unserer Kapseln. Wir gehen aufgrund unseres strikten Selektionsprozesses für Kaffee und seiner ausgewählten Terroirs davon aus, dass nur ein geringer Anteil der weltweiten Kaffeeernte unseren hohen Geschmacks- und Qualitätsanforderungen entsprechen.&#xd;
-Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nachhaltiges Handeln entlang der gesamten Wertschöpfungskette unerlässlich. Unsere Nachhaltigkeitsstrategie The Positive Cup steht dabei für unsere Vision, mit jeder Tasse Kaffee etwas Positives zu bewirken.</description>
-          <linktype>info</linktype>
-          <linksubtype>unknown</linksubtype>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-189.77</pan>
-            <tilt>-7.11</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point07</id>
-          <title>Kapsel Recycling</title>
-          <linktype>video</linktype>
-          <linksubtype>videoyoutube</linksubtype>
-          <url>pqX0haZp3MI</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-193.13</pan>
-            <tilt>-7.31</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point11</id>
-          <title>Order &amp; Care</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.nespresso.com/de/de/abonnement</url>
-          <skinid>ht_care</skinid>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-179.73</pan>
-            <tilt>-20.72</tilt>
+            <pan>-161.64</pan>
+            <tilt>-23.57</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -2201,31 +2026,6 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic</url>
           <target>_blank</target>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-170.48</pan>
-            <tilt>-2.85</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point09</id>
-          <title>Eine Botschaft von Guilaume Le Cunff</title>
-          <linktype>video</linktype>
-          <linksubtype>videoyoutube</linksubtype>
-          <url>7nnEra6-WVc</url>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
