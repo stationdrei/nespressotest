@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <input>
@@ -157,7 +157,7 @@
         <hotspot>
           <position>
             <pan>-358.47</pan>
-            <tilt>-16.73</tilt>
+            <tilt>-17</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -234,8 +234,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-15.12</pan>
-            <tilt>-13.34</tilt>
+            <pan>-16.14</pan>
+            <tilt>-13.72</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -246,7 +246,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>Vertuo Kapseln Kaufen</title>
+          <title>Vertuo Kapseln kaufen</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/de/de/coffee-selector</url>
@@ -260,8 +260,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-358.31</pan>
-            <tilt>-5.17</tilt>
+            <pan>-358.54</pan>
+            <tilt>-5.1</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -313,7 +313,7 @@
         <hotspot>
           <position>
             <pan>-344.4</pan>
-            <tilt>-16.2</tilt>
+            <tilt>-16</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -339,8 +339,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-9.95</pan>
-            <tilt>-16.75</tilt>
+            <pan>-9.73</pan>
+            <tilt>-16.87</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -391,8 +391,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-308.71</pan>
-            <tilt>2.93</tilt>
+            <pan>-308.79</pan>
+            <tilt>0.46</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -445,8 +445,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-345.59</pan>
-            <tilt>-2.29</tilt>
+            <pan>-345.66</pan>
+            <tilt>-4.32</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1494,7 +1494,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         <hotspot>
           <position>
             <pan>-355.84</pan>
-            <tilt>-3.41</tilt>
+            <tilt>-3.4</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1571,7 +1571,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         <hotspot>
           <position>
             <pan>-4.85</pan>
-            <tilt>-3.65</tilt>
+            <tilt>-3.4</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1621,8 +1621,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.280005</pan>
-            <tilt>-3.38</tilt>
+            <pan>-0.28</pan>
+            <tilt>-3.4</tilt>
             <fov>10</fov>
           </position>
           <next>

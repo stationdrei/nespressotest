@@ -47,18 +47,18 @@
     <hotspots height="0" width="180" wordwrap="1">
       <label textalpha="1" height="0" backgroundcolor="0xffffff" background="1" width="180" bordercolor="0x000000" borderradius="1" textcolor="0xffffff" backgroundalpha="1" border="0" enabled="1" borderalpha="1" wordwrap="1"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" borderalpha="1" handcursor="1"/>
-      <hotspot skinid="ht_node_zoom" pan="-358.47" description="" url="{node10}" title="Vertuo Details" target="" tilt="-16.73" id="zoom"/>
+      <hotspot skinid="ht_node_zoom" pan="-358.47" description="" url="{node10}" title="Vertuo Details" target="" tilt="-17" id="zoom"/>
       <hotspot skinid="ht_node_exit" pan="-187.02" description="" url="{node9}" title="" target="" tilt="-10.4" id="Point04"/>
       <hotspot skinid="ht_node_nachh" pan="-0.84" description="" url="{node11}" title="Nachhaltigkeit" target="15.4/-0.5/62.0" tilt="3.65" id="ht_node_enter_recycle"/>
-      <hotspot skinid="ht_node_link" pan="-15.12" description="" url="https://www.nespresso.com/de/de/coffee-selector" title="Vertuo Kapseln Kaufen" target="_blank" tilt="-13.34" id="Point01"/>
-      <hotspot skinid="ht_node_link" pan="-358.31" description="" url="https://www.nespresso.com/de/en/order/machines/vertuo" title="Vertuo Next kaufen" target="_blank" tilt="-5.17" id="Point02"/>
+      <hotspot skinid="ht_node_link" pan="-16.14" description="" url="https://www.nespresso.com/de/de/coffee-selector" title="Vertuo Kapseln kaufen" target="_blank" tilt="-13.72" id="Point01"/>
+      <hotspot skinid="ht_node_link" pan="-358.54" description="" url="https://www.nespresso.com/de/en/order/machines/vertuo" title="Vertuo Next kaufen" target="_blank" tilt="-5.1" id="Point02"/>
       <hotspot skinid="ht_video_file" pan="-28.62" description="" url="media/01-order-care.mp4" title="Order &amp; Care" target="" tilt="-7.01" id="Vertuo Next"/>
-      <hotspot skinid="ht_url" pan="-344.4" description="" url="https://www.nespresso.com/de/de/vertuo" title="Vertuo Next" target="_blank" tilt="-16.2" id="Point03"/>
-      <hotspot skinid="ht_url" pan="-9.95" description="" url="https://www.nespresso.com/de/de/vertuo" title="Vertuo Next" target="_blank" tilt="-16.75" id="Point05"/>
+      <hotspot skinid="ht_url" pan="-344.4" description="" url="https://www.nespresso.com/de/de/vertuo" title="Vertuo Next" target="_blank" tilt="-16" id="Point03"/>
+      <hotspot skinid="ht_url" pan="-9.73" description="" url="https://www.nespresso.com/de/de/vertuo" title="Vertuo Next" target="_blank" tilt="-16.87" id="Point05"/>
       <hotspot skinid="ht_insta" pan="-60.68" description="" url="https://www.instagram.com/nespresso.de/" title="Instagram" target="_blank" tilt="-12.29" id="Point06"/>
-      <hotspot skinid="ht_node_link" pan="-308.71" description="" url="https://www.nespresso.com/de/de/coffee-selector" title=" Kaffeefinder" target="_blank" tilt="2.93" id="Point07"/>
+      <hotspot skinid="ht_node_link" pan="-308.79" description="" url="https://www.nespresso.com/de/de/coffee-selector" title=" Kaffeefinder" target="_blank" tilt="0.46" id="Point07"/>
       <hotspot skinid="ht_node_business" pan="-17.12" description="" url="{node12}" title="B2B" target="0.0/0.0/59.0" tilt="2.98" id="zoom2"/>
-      <hotspot skinid="ht_video_youtube" pan="-345.59" description="" url="_S_HmYUCwhE" title="Nespresso VERTUO Next Intro Machine 2020 40&quot; | DE" target="" tilt="-2.29" id="Point08"/>
+      <hotspot skinid="ht_video_youtube" pan="-345.75" description="" url="_S_HmYUCwhE" title="Nespresso VERTUO Next Intro Machine 2020 40&quot; | DE" target="" tilt="-5.3" id="Point08"/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="40" blendcolor="0x000000" blendtime="0.3" zoomafterinfov="110" softedge="0" zoomfov="40" zoomoutpause="1" zoomspeed="2" zoomin="2" enabled="0" type="crossdissolve" zoomout="0"/>
@@ -174,12 +174,12 @@
       <hotspot skinid="ht_node_zoom" pan="-359.89" description="" url="{node2}" title="Momento Details" target="" tilt="-14.81" id="ht_node_zoom"/>
       <hotspot skinid="ht_node_enter" pan="-141.53" description="" url="{node8}" title="Vertuo Next" target="" tilt="0.44" id="ht_node_enter"/>
       <hotspot skinid="ht_url" pan="-295.6" description="" url="https://www.nespresso.com/pro/de/de/order/capsules/pro/50-kaffeekapseln-peru-organic" title="Peru Organic" target="_blank" tilt="-17.57" id="Point01"/>
-      <hotspot skinid="ht_node_link" pan="-355.84" description="" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" title="Momento Coffee &amp; Milk 120" target="_blank" tilt="-3.41" id="Point03"/>
+      <hotspot skinid="ht_node_link" pan="-355.84" description="" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" title="Momento Coffee &amp; Milk 120" target="_blank" tilt="-3.4" id="Point03"/>
       <hotspot skinid="ht_linkedin" pan="-302.52" description="" url="https://www.linkedin.com/showcase/nespresso-professional/" title="LinkedIn" target="_blank" tilt="-34.29" id="Point04a"/>
       <hotspot skinid="ht_url" pan="-72.18" description="" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" title="Genussmomente" target="_blank" tilt="-16.18" id="Point05"/>
-      <hotspot skinid="ht_video_youtube" pan="-4.85" description="" url="Y1S5HmbkySU" title="Nespresso Momento" target="" tilt="-3.65" id="Point07"/>
+      <hotspot skinid="ht_video_youtube" pan="-4.85" description="" url="Y1S5HmbkySU" title="Nespresso Momento" target="" tilt="-3.4" id="Point07"/>
       <hotspot skinid="ht_form" pan="-311.65" description="" url="https://www.nespresso.com/pro/de/de/professional-kontakt" title="Kontakt" target="_blank" tilt="-34.2" id="Point04"/>
-      <hotspot skinid="ht_3d" pan="-0.280005" description="" url="" title="3D Momento" target="" tilt="-3.38" id="Point10"/>
+      <hotspot skinid="ht_3d" pan="-0.28" description="" url="" title="3D Momento" target="" tilt="-3.4" id="Point10"/>
       <hotspot skinid="ht_node_nachh" pan="-161.64" description="" url="{node11}" title="Nachhaltigkeit" target="" tilt="-23.57" id="Point01"/>
       <hotspot skinid="ht_node_zoom" pan="-141.43" description="" url="{node10}" title="Vertuo Details" target="" tilt="-6.68" id="Point04"/>
     </hotspots>
