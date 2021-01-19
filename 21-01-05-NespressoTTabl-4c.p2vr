@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig rev="18007" version="6.1.10">
+<pano2vrconfig version="6.1.10" rev="18007">
   <tour>
     <panorama>
       <input>
@@ -182,8 +182,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-187.02</pan>
-            <tilt>-10.4</tilt>
+            <pan>-187.03</pan>
+            <tilt>-10.33</tilt>
             <fov>10</fov>
           </position>
           <next>
