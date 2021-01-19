@@ -1369,7 +1369,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <input>
         <patch/>
         <type>auto</type>
-        <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\202-01-05\render\b2b.tif</filename>
+        <filename>C:\Users\novos\work\20200925_Nespresso_Showroom\202-01-05\render\01-14\b2b-1401.tif</filename>
         <videotype>equi</videotype>
         <levelpitch>0</levelpitch>
         <levelroll>0</levelroll>
@@ -1441,8 +1441,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-141.53</pan>
-            <tilt>0.44</tilt>
+            <pan>-133.49</pan>
+            <tilt>0.65</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1467,8 +1467,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-295.6</pan>
-            <tilt>-17.57</tilt>
+            <pan>-318.48</pan>
+            <tilt>-13.23</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1493,8 +1493,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-355.84</pan>
-            <tilt>-3.4</tilt>
+            <pan>-356.52</pan>
+            <tilt>-1.43</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1519,8 +1519,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-302.52</pan>
-            <tilt>-34.29</tilt>
+            <pan>-326.51</pan>
+            <tilt>-22.84</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1545,8 +1545,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-72.18</pan>
-            <tilt>-16.18</tilt>
+            <pan>-44.79</pan>
+            <tilt>-14.47</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1570,8 +1570,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-4.85</pan>
-            <tilt>-3.4</tilt>
+            <pan>-4.78</pan>
+            <tilt>-1.51</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1595,8 +1595,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-311.65</pan>
-            <tilt>-34.2</tilt>
+            <pan>-333.39</pan>
+            <tilt>-22.63</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1621,8 +1621,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-0.28</pan>
-            <tilt>-3.4</tilt>
+            <pan>-0.58</pan>
+            <tilt>-1.42</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1646,8 +1646,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-161.64</pan>
-            <tilt>-23.57</tilt>
+            <pan>-157.03</pan>
+            <tilt>-24.18</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1672,8 +1672,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-141.43</pan>
-            <tilt>-6.68</tilt>
+            <pan>-134.47</pan>
+            <tilt>-5.29</tilt>
             <fov>10</fov>
           </position>
           <next>
