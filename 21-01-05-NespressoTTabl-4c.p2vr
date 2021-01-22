@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!-- Pano2VR project file  -->
-<pano2vrconfig version="6.1.10" rev="18007">
+<pano2vrconfig rev="18007" version="6.1.10">
   <tour>
     <panorama>
       <input>
@@ -391,8 +391,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-308.79</pan>
-            <tilt>0.46</tilt>
+            <pan>-317.05</pan>
+            <tilt>-13.15</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -685,7 +685,7 @@
           <polygon/>
           <type>point</type>
           <id>Point01</id>
-          <title>Vertuo Kapseln Kaufen</title>
+          <title>Vertuo Kapseln kaufen</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/de/de/coffee-selector</url>
@@ -1892,7 +1892,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <polygon/>
           <type>point</type>
           <id>Point04a</id>
-          <title>Kontaktformular</title>
+          <title>LinkedIn</title>
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.linkedin.com/showcase/nespresso-professional/</url>
@@ -2086,7 +2086,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
       <htmlcss>
         <html>
           <enabled>1</enabled>
-          <filename>index.html</filename>
+          <filename>../nespresso/index.html</filename>
           <values>
             <value id="css"/>
             <value id="gginfo">false</value>
@@ -2130,7 +2130,7 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
           <enabled>0</enabled>
         </webvr>
         <tilesize>1024</tilesize>
-        <filename>pano.xml</filename>
+        <filename>../nespresso/pano.xml</filename>
         <skinfile>C:/Users/novos/Documents/GitHub/nespresso/pano2vr/silhouette_cardboard.ggsk</skinfile>
         <quality>82</quality>
         <windowwidth>480</windowwidth>
