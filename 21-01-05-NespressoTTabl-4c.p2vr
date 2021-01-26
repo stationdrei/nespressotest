@@ -287,8 +287,8 @@
         </hotspot>
         <hotspot>
           <position>
-            <pan>-28.62</pan>
-            <tilt>-7.01</tilt>
+            <pan>-28.69</pan>
+            <tilt>-7.02</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -355,33 +355,6 @@
           <linktype>url</linktype>
           <linksubtype>unknown</linksubtype>
           <url>https://www.nespresso.com/de/de/vertuo</url>
-          <distance>0</distance>
-          <distanceauto>1</distanceauto>
-          <autoplace>0</autoplace>
-          <use3d>0</use3d>
-          <width>0</width>
-          <height>0</height>
-        </hotspot>
-        <hotspot>
-          <position>
-            <pan>-60.68</pan>
-            <tilt>-12.29</tilt>
-            <fov>10</fov>
-          </position>
-          <next>
-            <pan>0</pan>
-            <tilt>0</tilt>
-            <fov>0</fov>
-          </next>
-          <polygon/>
-          <type>point</type>
-          <id>Point06</id>
-          <title>Instagram</title>
-          <linktype>url</linktype>
-          <linksubtype>unknown</linksubtype>
-          <url>https://www.instagram.com/nespresso.de/</url>
-          <target>_blank</target>
-          <skinid>ht_insta</skinid>
           <distance>0</distance>
           <distanceauto>1</distanceauto>
           <autoplace>0</autoplace>
@@ -1880,8 +1853,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-223.02</pan>
-            <tilt>-21.49</tilt>
+            <pan>-222.78</pan>
+            <tilt>-21.48</tilt>
             <fov>10</fov>
           </position>
           <next>
@@ -1906,8 +1879,8 @@ Um unseren Kunden langfristig diese Premiumkaffees anbieten zu können, ist nach
         </hotspot>
         <hotspot>
           <position>
-            <pan>-232.23</pan>
-            <tilt>-21.87</tilt>
+            <pan>-231.9</pan>
+            <tilt>-21.88</tilt>
             <fov>10</fov>
           </position>
           <next>
