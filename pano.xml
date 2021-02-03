@@ -231,15 +231,15 @@
       <hotspot id="ht_node_zoom" url="{node2}" pan="-359.95" target="" tilt="-10.37" description="" title="Momento Details" skinid="ht_node_zoom"/>
       <hotspot id="ht_node_enter" url="{node8}" pan="-133.49" target="" tilt="0.65" description="" title="Vertuo Next" skinid="ht_node_enter"/>
       <hotspot id="Point01" url="https://www.zeit.de/angebote/nachhaltiger-kaffee/biokaffee-aus-den-anden/index" pan="-323.3" target="_blank" tilt="-11.7" description="" title="Peru Organic" skinid="ht_url"/>
-      <hotspot id="Point03" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" pan="-356.52" target="_blank" tilt="-1.43" description="" title="Momento Coffee &amp; Milk 120" skinid="ht_node_link"/>
+      <hotspot id="Point03" url="https://www.nespresso.com/pro/de/de/order/machines/pro/momento-120-kaffeemaschine" pan="-356.52" target="_blank" tilt="-1.25" description="" title="Momento Coffee &amp; Milk 120" skinid="ht_node_link"/>
       <hotspot id="Point04a" url="https://www.linkedin.com/showcase/nespresso-professional/" pan="-331.12" target="_blank" tilt="-20.23" description="" title="LinkedIn" skinid="ht_linkedin"/>
       <hotspot id="Point05" url="https://www.nespresso.com/pro/de/de/nespresso-momento-coffee-and-milk" pan="-37.39" target="_blank" tilt="-16.85" description="" title="Genussmomente" skinid="ht_url"/>
       <hotspot id="Point04" url="https://www.nespresso.com/pro/de/de/professional-kontakt" pan="-337.54" target="_blank" tilt="-20.53" description="" title="Kontakt" skinid="ht_form"/>
-      <hotspot id="Point10" url="" pan="-0.33" target="" tilt="-1.33" description="" title="3D Momento" skinid="ht_3d"/>
+      <hotspot id="Point10" url="" pan="0" target="" tilt="-1.25" description="" title="3D Momento" skinid="ht_3d"/>
       <hotspot id="Point01" url="{node11}" pan="-179.62" target="" tilt="-32.09" description="" title="Nachhaltigkeit" skinid="ht_node_nachh"/>
       <hotspot id="Point04" url="{node10}" pan="-134.47" target="" tilt="-5.29" description="" title="Vertuo Details" skinid="ht_node_zoom"/>
-      <hotspot id="Point06" url="media/02-02-b2b.mp4" pan="-38.72" target="" tilt="-10.65" description="" title="" skinid="ht_video_file"/>
-      <hotspot id="Point06" url="" pan="-3.98" target="_blank" tilt="-1.63" description="" title="Nespresso Momento" skinid="ht_info_b2b"/>
+      <hotspot id="Point06" url="media/02-02-b2b.mp4" pan="-38.72" target="" tilt="-10.65" description="" title="Nespresso Momento Cofee &amp; Milk" skinid="ht_video_file"/>
+      <hotspot id="Point06" url="" pan="-4.05" target="_blank" tilt="-1.25" description="" title="Nespresso Momento" skinid="ht_info_b2b"/>
       <polyhotspot id="pop01" url="https://www.nespresso.com/pro/de/de/order/accessories/pro" target="_blank" description="" title="Accessoires entdecken">
         <polystring>-349.84/-2.8|-355.03/-2.91|-355/-8.26|-349.79/-8.14</polystring>
       </polyhotspot>
