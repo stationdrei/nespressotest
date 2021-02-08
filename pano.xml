@@ -107,8 +107,8 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start projection="4" tilt="0" fov="72" pan="0"/>
-      <flyin projection="4" tilt="-90" fov="170" pan="0"/>
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="4" tilt="-3.73" fov="70" pan="-41.3"/>
       <min fovpixel="2" tilt="-90" pan="0"/>
       <max fovstereographic="270" fovfisheye="360" tilt="90" fov="120" pan="360" scaletofit="1"/>
     </view>
@@ -123,8 +123,8 @@
       <hotspot tilt="-11.97" url="https://www.nespresso.com/de/de/coffee-selector" skinid="ht_node_link" description="" target="_blank" id="Point01" pan="-41.2" title="VERTUO Kaffee entdecken"/>
       <hotspot tilt="0.98" url="media/01-order-care.mp4" skinid="ht_video_file" description="" target="" id="Video Order &amp; Care (KEINE)" pan="-45.89" title="Video Order &amp; Care"/>
       <hotspot tilt="6.12" url="https://www.nespresso.com/de/de/coffee-selector" skinid="ht_node_link" description="" target="_blank" id="Point07" pan="-300.72" title=" Kaffeefinder"/>
-      <hotspot tilt="-19.39" url="" skinid="PolyKaraf" description="" target="_blank" id="Point04" pan="-10.7" title=""/>
-      <hotspot tilt="-19.46" url="" skinid="PolyTass" description="" target="_blank" id="Point08" pan="-348.36" title=""/>
+      <hotspot tilt="-19.39" url="" skinid="PolyKaraf" description="" target="" id="Point04" pan="-10.7" title=""/>
+      <hotspot tilt="-19.46" url="" skinid="PolyTass" description="" target="" id="Point08" pan="-348.36" title=""/>
       <hotspot tilt="8.34" url="" skinid="ht_3d2" description="" target="" id="Point10" pan="-5.82" title="360 Ansicht"/>
       <hotspot tilt="0.81" url="https://www.nespresso.com/de/de/abonnement" skinid="ht_url" description="" target="_blank" id="Point06" pan="-39.79" title="Order &amp; Care"/>
       <hotspot tilt="-2.71" url="_S_HmYUCwhE" skinid="ht_video_youtube" description="" target="" id="Point08" pan="-341.92" title="Vertuo Next Video"/>
@@ -154,14 +154,14 @@
       </polyhotspot>
     </hotspots>
     <media>
-      <video level="1.000" height="1072" startmutedmobile="1" handcursor="0" tiltsize="10.000" roty="0.000" id="Tass" field="90.000" loop="-1" nodechangekeep="0" fov="44.320" rotz="0.000" stretch="1.000" pan="0.000" ambientlevel="0.000" width="1072" tilt="0.000" rotx="0.000" pansize="10.000" clickmode="0" mode="1">
+      <video level="1.000" height="1072" startmutedmobile="1" handcursor="0" tiltsize="10.000" roty="0.000" id="Tass" field="90.000" loop="-1" nodechangekeep="0" fov="44.320" rotz="0.000" stretch="1.000" pan="0.000" ambientlevel="0.000" width="1072" tilt="-1.000" rotx="0.000" pansize="10.000" clickmode="0" mode="1">
         <source url="media/cup.mp4"/>
       </video>
-      <video level="1.000" height="1072" startmutedmobile="1" handcursor="0" tiltsize="10.000" roty="0.000" id="Karaf" field="90.000" loop="-1" nodechangekeep="0" fov="44.320" rotz="0.000" stretch="1.000" pan="0.000" ambientlevel="0.000" width="1072" tilt="0.000" rotx="0.000" pansize="10.000" clickmode="0" mode="1">
+      <video level="1.000" height="1072" startmutedmobile="1" handcursor="0" tiltsize="10.000" roty="0.000" id="Karaf" field="90.000" loop="-1" nodechangekeep="0" fov="44.320" rotz="0.000" stretch="1.000" pan="0.000" ambientlevel="0.000" width="1072" tilt="-1.000" rotx="0.000" pansize="10.000" clickmode="0" mode="1">
         <source url="media/karaffee.mp4"/>
       </video>
-      <image clickmode="0" handcursor="0" height="268" tilt="0.000" fov="44.320" rotx="0.000" roty="0.000" width="268" rotz="0.000" stretch="1.000" id="Element03" pan="0.000">
-        <source url="media/patch-min.png"/>
+      <image clickmode="0" handcursor="0" height="268" tilt="-1.000" fov="44.320" rotx="0.000" roty="0.000" width="268" rotz="0.000" stretch="1.000" id="Element03" pan="0.000">
+        <source url="media/patch.png"/>
       </image>
     </media>
     <transition softedge="0" blendtime="0.3" zoomafteroutfov="40" blendcolor="0x000000" zoomspeed="2" enabled="0" zoomin="2" type="crossdissolve" zoomfov="40" zoomafterinfov="110" zoomout="0" zoomoutpause="1"/>
