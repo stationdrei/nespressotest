@@ -14,7 +14,7 @@
 			import { OrbitControls } from './helper/OrbitControls.js';
 			import { GLTFLoader } from './helper/GLTFLoader.js';
 			import { RGBELoader } from './helper/RGBELoader.js';
-			import { RoughnessMipmapper } from './helper/RoughnessMipmapper.js';
+			//import { RoughnessMipmapper } from './helper/RoughnessMipmapper.js';
 
 			let camera, scene, renderer;
 
@@ -55,7 +55,7 @@
 						// model
 
 						// use of RoughnessMipmapper is optional
-						const roughnessMipmapper = new RoughnessMipmapper( renderer );
+					//	const roughnessMipmapper = new RoughnessMipmapper( renderer );
 
 						const loader = new GLTFLoader().setPath( './helper/model/' );
 						loader.load( 'vertuob.glb', function ( gltf ) {
@@ -73,7 +73,7 @@
 
 							scene.add( gltf.scene );
 
-							roughnessMipmapper.dispose();
+						//	roughnessMipmapper.dispose();
 
 							render();
 

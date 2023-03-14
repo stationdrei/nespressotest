@@ -1,0 +1,22 @@
+AuthUserFile /kunden/homepages/31/d623212934/htdocs/basis-station.de/nespresso/.htpasswd
+AuthType Basic
+AuthName "station3 GmbH"
+
+<FilesMatch "\.(svg|png|jpe?g|gif|json|mov|mp4|json)$">
+	require all granted
+</FilesMatch>
+
+<Limit GET POST>
+	require valid-user
+</Limit>
+
+
+RewriteEngine On
+RewriteRule ^pdf/$ /pdf/Workbook1.pdf [L]
+
+RewriteCond %{HTTPS} !=on
+RewriteRule ^/?(.*) https://%{SERVER_NAME}/$1 [R,L]
+
+RewriteEngine On
+RewriteCond %{HTTP_HOST} ^basis-station.de [NC]
+RewriteRule ^(.*)$ https://www.basis-station.de/$1 [L,R=301]
